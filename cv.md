@@ -2,10 +2,8 @@ Junior Developer Resume
 
 1. Name : Doge Bark-bark
 2. Contact Info : Woftown, Bone ave. h1
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
+3. Summary : I want to be a good boy, perhaps Android or iOS developer
+4. Skills : wov range of 1 kilometer, kutie pie face, advanced bode digging abilities
 5. Code examples (LATEST)
 6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
 freelance projects - wherever they had the opportunity to demonstrate skills they have.
